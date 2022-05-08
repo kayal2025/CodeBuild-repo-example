@@ -1,2 +1,2 @@
 # CodeBuild-repo-example
- This is Repo for the AWS Guide Book
+ An example will show you how to use CodeBuild so you can generate an artifact from this code.
